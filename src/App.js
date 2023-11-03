@@ -21,7 +21,7 @@ function App() {
     <div className="App">
       <div className="header">
         <div className="profile">
-          <h1>Ayush Yadav</h1>
+          <h1>Ratan Srivastav</h1>
         </div>
         <div className="navbar">
           {sections.map((section, index) => (
@@ -40,7 +40,7 @@ function App() {
           <div className="content-section">
             <h2>Welcome to my portfolio!</h2>
             <p>
-              I'm Ayush Yadav, a web developer who's dedicated to crafting
+              I'm Ratan Srivastav, a web developer who's dedicated to crafting
               visually stunning and highly adaptable websites, designed to
               provide exceptional user experiences.
             </p>
@@ -77,7 +77,7 @@ monitor and assess the health and performance of electric vehicle (EV) motors in
             <div className="content-section">
               <h2>About Me</h2>
               <p>
-                Hi, I'm Ayush Yadav, a web developer with expertise in HTML and
+                Hi, I'm Ratan Srivastav, a web developer with expertise in HTML and
                 CSS. I'm passionate about creating beautiful and responsive
                 websites that deliver great user experiences.
               </p>
@@ -111,14 +111,14 @@ monitor and assess the health and performance of electric vehicle (EV) motors in
 
               <div className="content-section">
                 <h2>Contact Me</h2>
-                <p>Name: Ayush Yadav</p>
-                <p>Mobile: 7752981422</p>
-                <p>Email: yayush059@gmail.com</p>
+                <p>Name: Ratan Srivastav</p>
+                <p>Mobile: 9305519672</p>
+                <p>Email: ratan74082@gmail.com</p>
                 <p>
                   Linkedin:{" "}
-                  <a href="https://www.linkedin.com/in/ayush-yadav-667002185/">
+                  <a href="https://www.linkedin.com/in/ratan-srivastav-747b20241/">
                     {" "}
-                    Ayush Yadav{" "}
+                    Ratan Srivastav{" "}
                   </a>
                 </p>
               </div>
@@ -178,12 +178,12 @@ monitor and assess the health and performance of electric vehicle (EV) motors in
       {selectedSection === "Contact" && (
         <div className="content-section">
           <h2>Contact Me</h2>
-          <p>Name: Ayush Yadav</p>
-          <p>Mobile: 7752981422</p>
-          <p>Email: yayush059@gmail.com</p>
+          <p>Name: Ratan Srivastav</p>
+          <p>Mobile: 9305519672</p>
+          <p>Email: ratan74082@gmail.com</p>
           <p>
             Linkedin:{" "}
-            <a href="https://www.linkedin.com/in/ayush-yadav-667002185/">
+            <a href="https://www.linkedin.com/in/ratan-srivastav-747b20241/">
               {" "}
               LinkedIn
             </a>

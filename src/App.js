@@ -131,7 +131,7 @@ monitor and assess the health and performance of electric vehicle (EV) motors in
         <div className="content-section">
           <h2>About Me</h2>
           <p>
-            Hi, I'm Ayush Yadav, a web developer with expertise in HTML and CSS.
+            Hi, I'm Ratan Srivastav, a web developer with expertise in HTML and CSS.
             I'm passionate about creating beautiful and responsive websites that
             deliver great user experiences.
           </p>
